@@ -29,7 +29,7 @@
 > Each broker (or asset management company) is providing service on their own platform. In case that the investor invests in multiple mutual funds from different broker, it is not convenient to keep checking all different platforms throughout the holding period which is quite long. Fund Tracker web-application is initiated to help facilitate Thai investor to keep track of their all-own funds as one page summary. This is especially beneficial for RMF type which required the investor to continuously invest to maintain the tax deduction benefit until retirement. (visit https://www.uobam.co.th/en/tax-benefit/rmf for more detail)
 
 
-### **++++ Caution**: This project was developed with misconception of RMF rebuying.  ++++
+### **++++ Notice**: This project was developed with misconception of RMF rebuying.  ++++
 ##### **I found out while writing this document that the investor does not need to continue buying the same fund. Buying different fund on the other year does not against investment condition for tax benefit as long as it's RMF type. But this web application was developed on the understanding that the same RMF fund needs to be continuously rebought until the investor becomes 55 years old and has held that fund for at least 5 calendar years before redemption to not against the condition for tax benefit. **
 
 
