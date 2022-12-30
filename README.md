@@ -1,5 +1,5 @@
 # FUND TRACKER
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://youtu.be/wsC7_PsZc78)>
 #### Description:
 >A web-based application using Python, SQL, HTML and CSS for tracking the invested funds which are related to tax benefit in Thailand. However, the investor can also use this website to keep record of all investment including other type of fund in one place. The investor will be able to get a big picture how much money they have invested so far, as well as the proportion of each type of fund visualized by a donut chart. This website supports both full desktop and mobile screens by implementing CSS grid and Bootstrap v5.3
 
