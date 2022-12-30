@@ -26,7 +26,7 @@
         - Continuous investment : Not required
         - Eligible period       : Investment before January 1, 2020
 
-> Each broker (or asset management company) is providing service on their own platform. In case that the investor invests in multiple mutual funds from different broker, it is not convenient to keep checking all different platforms throughout the holding period which is quite long. Fund Tracker web-application is initiated to help facilitate Thai investor to keep track of their all-own funds as one page summary. This is especially beneficial for RMF type which required the investor to continuously invest to maintain the tax deduction benefit until retirement.(visit https://www.uobam.co.th/en/tax-benefit/rmf for more detail)
+> Each broker (or asset management company) is providing service on their own platform. In case that the investor invests in multiple mutual funds from different broker, it is not convenient to keep checking all different platforms throughout the holding period which is quite long. Fund Tracker web-application is initiated to help facilitate Thai investor to keep track of their all-own funds as one page summary. This is especially beneficial for RMF type which required the investor to continuously invest to maintain the tax deduction benefit until retirement. (visit https://www.uobam.co.th/en/tax-benefit/rmf for more detail)
 
 
 ### **++++ Caution**: This project was developed with misconception of RMF rebuying.  ++++
